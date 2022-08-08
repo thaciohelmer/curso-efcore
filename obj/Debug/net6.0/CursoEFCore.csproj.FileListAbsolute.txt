@@ -1,0 +1,14 @@
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.csproj.AssemblyReference.cache
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.csproj.SuggestedBindingRedirects.cache
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.dll.config
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.AssemblyInfoInputs.cache
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.AssemblyInfo.cs
+C:\Users\thacio.helmer\Documents\CursoEFCore\CursoEFCore\obj\Debug\net6.0\CursoEFCore.csproj.CoreCompileInputs.cache
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.csproj.AssemblyReference.cache
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.csproj.SuggestedBindingRedirects.cache
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.dll.config
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.AssemblyInfoInputs.cache
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.AssemblyInfo.cs
+C:\Users\thacio.helmer\Documents\desenvolvedor-io\CursoEFCore\obj\Debug\net6.0\CursoEFCore.csproj.CoreCompileInputs.cache
